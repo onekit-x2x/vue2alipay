@@ -1,0 +1,7 @@
+<text
+class="onekit-abbr {{Class}}"
+style="{{Style}}"
+title ="{{title}}"
+>
+<slot/>
+</text>
