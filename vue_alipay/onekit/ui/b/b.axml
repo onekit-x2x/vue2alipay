@@ -1,0 +1,8 @@
+<text
+id="{{Id}}"
+class="onekit-b {{Class}}"
+style="{{Style}}"
+>
+<slot>
+</slot>
+</text>
