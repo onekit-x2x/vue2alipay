@@ -1,3 +1,7 @@
-<view>
-  New Component
-</view>
+<text
+id="{{Id}}"
+class="onekit-bdi {{Class}}"
+style="{{Style}}"
+>
+<slot></slot>
+</text>
