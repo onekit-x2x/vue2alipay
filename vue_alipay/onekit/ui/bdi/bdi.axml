@@ -1,7 +1,7 @@
 <text
 id="{{Id}}"
 class="onekit-bdi {{Class}}"
-style="{{Style}}"
+style="{{onekitStyle}}"
 >
 <slot></slot>
 </text>

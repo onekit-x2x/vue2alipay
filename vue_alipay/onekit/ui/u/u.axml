@@ -1,7 +1,7 @@
 <text
 id="{{Id}}"
-class="onekit-u {{Class}}"
-style="{{Style}}"
+class="onekit-u {{onekitClass}}"
+style="{{onekitStyle}}"
 >
 <slot></slot>
 </text>
