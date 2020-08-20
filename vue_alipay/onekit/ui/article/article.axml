@@ -1,5 +1,5 @@
 <text
-id="{{Id}}"
+id="{{onekitId}}"
 class="onekit-article {{Class}}"
 style="{{Style}}"
 >

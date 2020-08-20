@@ -2,7 +2,7 @@ Component({
   mixins: [],
   data: {},
   props: {
-    Id:""
+    onekitId:""
   },
   didMount() {},
   didUpdate() {},
