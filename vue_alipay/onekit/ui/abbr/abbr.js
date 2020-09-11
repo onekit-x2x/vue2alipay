@@ -1,11 +1,10 @@
 Component({
   mixins: [],
   data: {},
-  props: {
+  props: {     
+    onekitClass:"",    
+     onekitStyle:"",     
+     onekitId:"", 
     title:""
   },
-  didMount() {},
-  didUpdate() {},
-  didUnmount() {},
-  methods: {},
 });

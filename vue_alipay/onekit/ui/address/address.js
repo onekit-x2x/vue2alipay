@@ -1,8 +1,8 @@
 Component({
   mixins: [],
   data: {},
-  props: {
-    onekitId:''
+  props: {     onekitClass:"",     onekitStyle:"",     onekitId:"", 
+ 
   },
   didMount() {},
   didUpdate() {},
