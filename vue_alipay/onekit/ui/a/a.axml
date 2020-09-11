@@ -4,4 +4,4 @@ style="{{onekitStyle}}"
 id="{{onekitId}}"
 >
 <slot></slot>
-</text>dd
+</text>

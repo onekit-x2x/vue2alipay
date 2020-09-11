@@ -1,3 +1,9 @@
-<view>
-  New Component
-</view>
+<text
+class="onekit-kbd {{onekitClass}}"
+style="{{onekitStyle}}"  id="{{onekitId}}"
+bindtap="onclick" 
+touchmove="onmousemove"
+touchend="onmouseup"
+>
+<slot/>
+</text>

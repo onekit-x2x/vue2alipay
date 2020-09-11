@@ -1,3 +1,6 @@
-<view>
-  New Component
-</view>
+<text
+class="onekit-i {{onekitClass}}"
+style="{{onekitStyle}}"  id="{{onekitId}}"
+>
+<slot/>
+</text>

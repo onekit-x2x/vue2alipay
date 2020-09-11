@@ -1,0 +1,304 @@
+
+
+<!------------------------------------------------------------ a --------------------------------------->
+<onekit-a href="https://baidu.com">Website</onekit-a>
+<onekit-a href="mailto:m.bluth@example.com">Email</onekit-a>
+<onekit-a href="tel:+123456789">Phone</onekit-a>
+
+
+<!------------------------------------------------------- address ---------------------------------------->
+<!-- <onekit-address>
+Written by <onekit-a href="mailto:webmaster@example.com">Donald Duck</onekit-a>.<onekit-br/> 
+Visit us at:<onekit-br/>
+Example.com<onekit-br/>
+Box 564, Disneyland<onekit-br/>
+USA
+</onekit-address> -->
+
+
+<!----------------------------------------------------------- b --------------------------------------------->
+<!-- <p>杩欐槸鏅€氭枃鏈?- <onekit-b>杩欐槸绮椾綋鏂囨湰</onekit-b>銆?/p> -->
+
+
+<!-- br -->
+<!-- <p>To break,<onekit-br/>lines,<onekit-br/>in a,onekit-<br/>paragraph,<onekit-br/>use the br tag.</p> -->
+
+
+
+<!------------------------------------------------------ div --------------------------------------------->
+<!-- <onekit-h3>This is a header</onekit-h3>
+<onekit-p>This is a paragraph.</onekit-p>
+<onekit-div onekit-style="color:red">
+  <onekit-h3>This is a header</onekit-h3>
+  <onekit-p>This is a paragraph.</onekit-p>
+</onekit-div> -->
+
+
+
+<!------------------------------------------------ dl銆乨t銆乨d -------------------------------------------->
+<!-- <onekit-dl>
+   <onekit-dt>璁＄畻鏈?/onekit-dt>
+   <onekit-dd>鐢ㄦ潵璁＄畻鐨勪华鍣?... ...</onekit-dd>
+   <onekit-dd>鐢ㄦ潵璁＄畻鐨勪华鍣?... ...</onekit-dd>
+   <onekit-dt>鏄剧ず鍣?/onekit-dt>
+   <onekit-dd>浠ヨ瑙夋柟寮忔樉绀轰俊鎭殑瑁呯疆 ... ...</onekit-dd>
+   <onekit-dd>浠ヨ瑙夋柟寮忔樉绀轰俊鎭殑瑁呯疆2... ...</onekit-dd>
+</onekit-dl> -->
+
+
+<!------------------------------------------------------ em ----------------------------------------------------------->
+<!-- <onekit-p>
+  In HTML 5, what was previously called <onekit-em>block-level</onekit-em> content is now called <onekit-em>flow</onekit-em> content.
+</onekit-p> -->
+
+
+<!------------------------------------------------------ h --------------------------------------------------------------->
+<!-- <onekit-h1>杩欐槸鏍囬 1</onekit-h1>
+<onekit-h2>杩欐槸鏍囬 2</onekit-h2>
+<onekit-h3>杩欐槸鏍囬 3</onekit-h3>
+<onekit-h4>杩欐槸鏍囬 4</onekit-h4>
+<onekit-h5>杩欐槸鏍囬 5</onekit-h5>
+<onekit-h6>杩欐槸鏍囬 6</onekit-h6> -->
+
+
+
+<!------------------------------------------------------- p ----------------------------------------------------------------->
+<!-- <onekit-p>杩欐槸娈佃惤銆?/onekit-p>
+<onekit-p>杩欐槸娈佃惤銆?/onekit-p>
+<onekit-p>杩欐槸娈佃惤銆?/onekit-p>
+<onekit-p>娈佃惤鍏冪礌鐢?p 鏍囩瀹氫箟銆?/onekit-p>  -->
+
+
+<!---------------------------------------------------- figure   figcaption ------------------------------------------------------>
+<!-- <onekit-p>涓婃捣鍗㈡郸澶фˉ鏄綋浠婁笘鐣岀涓€閽㈢粨鏋勬嫳妗ワ紝鏄笘鐣屼笂璺ㄥ害鏈€澶х殑鎷卞舰妗ャ€傚畠涔熸槸涓栫晫涓婇搴у畬鍏ㄩ噰鐢ㄧ剨鎺ュ伐鑹鸿繛鎺ョ殑澶у瀷鎷辨ˉ锛堥櫎鍚堟嫝鎺ュ彛閲囩敤鏍撴帴澶栵級锛岀幇鍦虹剨鎺ョ剨缂濇€婚暱搴﹁揪4涓囧绫筹紝鎺ヨ繎涓婃捣甯傚唴鐜珮鏋惰矾鐨勬€婚暱搴︺€傚崲娴﹀ぇ妗ュ儚婢冲ぇ鍒╀簹鎮夊凹鐨勬捣婀惧ぇ妗ヤ竴鏍峰叿鏈夋梾娓歌鍏夌殑鍔熻兘銆?/onekit-p>
+<onekit-figure>
+  <onekit-p>榛勬郸姹熶笂鐨勭殑鍗㈡郸澶фˉ</onekit-p>
+  <onekit-p>鎷嶆憚鑰咃細W3School 椤圭洰缁勶紝鎷嶆憚鏃堕棿锛?010 骞?10 鏈?/onekit-p>
+  <onekit-img src="/pages/img/1.jpg" width="200" height="150" />
+  <onekit-figcaption>Fig.1 - The Pulpit Rock, Norway.</onekit-figcaption>
+</onekit-figure> -->
+
+
+
+<!----------------------------------------------------- font ------------------------------------------>
+<!-- <onekit-footer>
+  <onekit-p>Posted by: W3School</onekit-p>
+  <onekit-p>Contact information: <onekit-a href="mailto:someone@example.com">someone@example.com</onekit-a>.</onekit-p>
+</onekit-footer> -->
+
+
+<!-------------------------------------------------------- hr ----------------------------------------->
+<!-- <onekit-p>hr 鏍囩瀹氫箟姘村钩绾匡細</onekit-p>
+<onekit-hr/>
+<onekit-p>杩欐槸娈佃惤銆?/onekit-p>
+<onekit-hr/>
+<onekit-p>杩欐槸娈佃惤銆?/onekit-p>
+<onekit-hr/>
+<onekit-p>杩欐槸娈佃惤銆?/onekit-p> -->
+
+<!-------------------------------------------------------- i ----------------------------------------------->
+<!-- <onekit-p>The Latin phrase <onekit-i class="latin">Veni, vidi, vici</onekit-i> is often
+mentioned in music, art, and literature</onekit-p> -->
+
+<!------------------------------------------------------- iframe ---------------------------------------------->
+<!-- <onekit-iframe src ="/pages/img/1.jpg" width="400" height="300" frameborder="0">
+  <onekit-p>Your browser does not support iframes.</onekit-p>
+</onekit-iframe> -->
+
+<!------------------------------------------------------- ins --------------------------------------------------->
+<!-- <onekit-p>涓€鎵撴湁 <onekit-del>浜屽崄</onekit-del> <onekit-ins>鍗佷簩</onekit-ins> 浠躲€?/onekit-p>
+<onekit-p>澶у鏁版祻瑙堝櫒浼氭敼鍐欎负鍒犻櫎鏂囨湰鍜屼笅鍒掔嚎鏂囨湰銆?/onekit-p>
+<onekit-p>涓€浜涜€佸紡鐨勬祻瑙堝櫒浼氭妸鍒犻櫎鏂囨湰鍜屼笅鍒掔嚎鏂囨湰鏄剧ず涓烘櫘閫氭枃鏈€?/onekit-p> -->
+
+<!------------------------------------------------------- kbd ------------------------------------------------------>
+<!-- <onekit-p>Type the following in the Run dialog: <onekit-kbd>cmd</onekit-kbd><onekit-br/>Then click the OK button.</onekit-p>
+<onekit-p>Save the document by pressing <onekit-kbd>Ctrl</onekit-kbd> + <onekit-kbd>S</onekit-kbd></onekit-p> -->
+
+
+<!------------------------------------------------------ label ------------------------------------------------------>
+<!-- <onekit-div onekit-class="preference">
+    <onekit-label for="cheese">Do you like cheese?</onekit-label>
+    <onekit-input type="checkbox" name="cheese" onekit-onekit-id="cheese"/>
+</onekit-div>
+
+<onekit-div onekit-class="preference">
+    <onekit-label for="peas">Do you like peas?</onekit-label>
+    <onekit-input type="checkbox" name="peas" onekit-onekit-id="peas"/>
+</onekit-div> -->
+
+<!-- ----------------------------------------------  鍒楄〃dl銆乨t銆乨d锛? ------------------------------------------------------- -->
+<!-- <onekit-p>鍒楄〃dl銆乨t銆乨d锛?/onekit-p>
+<onekit-dl>
+   <onekit-dt>鍒楄〃1<onekit-dialog open>杩欐槸鎵撳紑鐨勫璇濈獥鍙?/onekit-dialog></onekit-dt>
+     <onekit-dd>1</onekit-dd>
+     <onekit-dd>2</onekit-dd>
+   <onekit-dt>鍒楄〃2</onekit-dt>
+     <onekit-dd>3</onekit-dd>
+     <onekit-dd>4</onekit-dd>
+</onekit-dl> -->
+
+  
+<!-- ---------------------------------------------  audio  -------------------------------------------------- -->
+<!-- <onekit-audio controls src="https://www.onekitwx.com/quick/demo.mp3">
+     Your browser does not support the
+     <code>audio</code> element.
+</onekit-audio> -->
+
+
+<!-----------------------------------------------------------------  dialog  ------------------------------------>
+<!--  
+ <onekit-dialog open>杩欐槸瑕佹樉绀哄嚭鏉ョ殑瀵硅瘽妗嗕腑鐨勫唴瀹?/onekit-dialog>
+  <onekit-dialog>杩欐槸涓嶆樉绀哄嚭鏉ョ殑瀵硅瘽妗嗕腑鍐呭</onekit-dialog> -->
+   
+
+<!---------------------------------------------------  fieldset legend  ------------------------------------------->
+  <!-- <onekit-fieldset>
+    <onekit-legend>Choose your favorite monster</onekit-legend>
+
+    <onekit-input type="radio" onekit-id="kraken" name="monster"/>
+    <onekit-label>Kraken</onekit-label>
+    <onekit-br/>
+
+    <onekit-input type="radio" onekit-id="sasquatch" name="monster"/>
+    <onekit-label>Sasquatch</onekit-label><onekit-br/>
+
+    <onekit-input type="radio" onekit-id="mothman" name="monster"/>
+    <onekit-label>Mothman</onekit-label>
+</onekit-fieldset>
+<onekit-br/>
+   <onekit-fieldset>
+
+    <onekit-input type="radio" onekit-id="kraken" name="monster"/>
+    <onekit-label>Kraken</onekit-label>
+    <onekit-br/>
+
+    <onekit-input type="radio" onekit-id="sasquatch" name="monster"/>
+    <onekit-label>Sasquatch</onekit-label><onekit-br/>
+
+    <onekit-input type="radio" onekit-id="mothman" name="monster"/>
+    <onekit-label>Mothman</onekit-label>
+</onekit-fieldset> -->
+
+
+<!-- ----------------------------------------------  area  ------------------------------------------------------------ -->
+<!-- <onekit-body>
+<onekit-p>璇风偣鍑诲浘鍍忥紝鎶婂畠浠斁澶с€?/onekit-p>
+<onekit-img src="/gong/chineseMap2.jpg" border="0" usemap="#chinesemap" alt="chinesemap"></onekit-img>
+<onekit-map name="chinesemap" onekit-id="chinesemap">
+
+
+<onekit-area shape="polygon" 
+coords=
+"101,52,94,55,91,60,84,57,79,66,71,66,71,75,66,80,39,84,41,90,40,98,42,102,42,107,48,111,50,118,94,119,100,120,102,114,100,109,108,106,111,100,126,89,117,76,109,73,109,62"
+href ="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1599646438911&di=d393ac0fa026524a3b20c9f2309a23da&imgtype=0&src=http%3A%2F%2Fgss0.baidu.com%2F-fo3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fpic%2Fitem%2F29381f30e924b899cf0cfcc268061d950a7bf61c.jpg"
+target ="_blank"
+alt="Venus">
+
+</onekit-area>
+</onekit-map>
+</onekit-body> -->
+
+<!-- ----------------------------------------------  input  ------------------------------------------------------------ -->
+<!-- 
+ <onekit-p>type=text銆乸assword銆乻ubmit銆乥utton:</onekit-p>
+<onekit-hr />
+<onekit-div>
+    <onekit-label for="username">Username:</onekit-label>
+    <onekit-input type="text" id="username" name="username"/>
+</onekit-div>
+<onekit-div>
+    <onekit-label for="pass">Password (8 characters minimum):</onekit-label>
+    <onekit-input type="password" id="pass" name="password"
+           minlength="8" required/>
+</onekit-div>
+<onekit-input type="submit" value="Sign in"/> 
+
+<onekit-p>type=button:</onekit-p>
+<onekit-hr/>
+<onekit-input type="button" value="Click me"/>
+
+<onekit-p>type=checkbox:</onekit-p>
+<onekit-hr />
+<onekit-p>
+  <onekit-input type="checkbox" id="cbox1" value="first_checkbox"/>
+  <onekit-label for="cbox1">This is the first checkbox</onekit-label>
+</onekit-p>
+<onekit-p>
+  <onekit-input type="checkbox" id="cbox2" value="second_checkbox" checked="checked"/>
+  <onekit-label for="cbox2">This is the second checkbox, which is checked</onekit-label>
+</onekit-p>
+ -->
+
+<!-- <onekit-p>type=file:</onekit-p>
+<onekit-hr />
+<onekit-body>
+<form>
+<onekit-input type="file" name="pic" accept="image/gif"></onekit-input>
+</form>
+
+</onekit-body> -->
+<!-- 
+<onekit-p>type=hidden:</onekit-p>
+<onekit-hr />
+<onekit-input onekit-id="prodId" name="prodId" type="hidden" value="xm234jq"/>
+ -->
+
+ <!-- **********issue******* -->
+<!-- <onekit-p>type=image:</onekit-p>
+<onekit-hr />
+<onekit-input type="image" name="image" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1599479802285&di=ca55bdc853b5f1dd47cf8391f7685507&imgtype=0&src=http%3A%2F%2Fa4.att.hudong.com%2F22%2F59%2F19300001325156131228593878903.jpg" width="200"/> -->
+
+
+<!-- 
+<onekit-p>type=radio銆乻ubmit:</onekit-p>
+<onekit-hr />
+<form>
+  <onekit-p>Please select your preferred contact method:</onekit-p>
+  <onekit-div>
+    <onekit-input type="radio" onekit-id="contactChoice1" onekit-class="aaa" onekit-style="bbb"
+     name="contact" value="email"/>
+    <onekit-label for="contactChoice1">Email</onekit-label>
+
+    <onekit-input type="radio" onekit-id="contactChoice2"
+     name="contact" value="phone"/>
+    <onekit-label for="contactChoice2">Phone</onekit-label>
+
+    <onekit-input type="radio" onekit-id="contactChoice3"
+     name="contact" value="mail"/>
+    <onekit-label for="contactChoice3">Mail</onekit-label>
+  </onekit-div>
+  <onekit-div>
+    <onekit-button type="submit">Submit</onekit-button>
+  </onekit-div>
+</form>
+
+<onekit-p>type=text銆乻ubmit銆乺eset:</onekit-p>
+<onekit-hr />
+<form>
+    <onekit-div class="controls">
+
+        <onekit-label for="id">User ID:</onekit-label>
+        <onekit-input type="text" onekit-id="id" name="id" />
+
+        <onekit-input type="reset" value="Reset"/>
+        <onekit-input type="submit" value="Submit"/>
+
+    </onekit-div>
+</form>  -->
+
+
+<!-- ----------------------------------------------  img  ------------------------------------------------------------ -->
+<!-- <onekit-body>
+<onekit-img  onekit-style="display:block"  onekit-id="0" src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" />
+<onekit-img onekit-style="display:block" onekit-id="1" src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" width="50%" />
+<onekit-img onekit-style="display:block" onekit-id="2" src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" height="50%" />
+
+ <onekit-img onekit-style="display:block" onekit-id="3" src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" width="100" />
+<onekit-img onekit-style="display:block" onekit-id="4" src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" height="100" />
+<onekit-img onekit-style="display:block" onekit-id="5" src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" width="100" height="100" /> 
+
+<onekit-img onekit-style="display:block" onekit-id="6" src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" width="50%" height="50%" />
+<onekit-img onekit-style="display:block" onekit-id="7" src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" width="50%" height="100" />
+<onekit-img onekit-style="display:block" onekit-id="8" src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" width="100" height="50%" />
+
+</onekit-body> -->
