@@ -1,24 +1,6 @@
 
 
 
-<!------------------------------------------------------- address ---------------------------------------->
-<!-- <onekit-address>
-Written by <onekit-a href="mailto:webmaster@example.com">Donald Duck</onekit-a>.<onekit-br/> 
-Visit us at:<onekit-br/>
-Example.com<onekit-br/>
-Box 564, Disneyland<onekit-br/>
-USA
-</onekit-address> -->
-
-
-<!----------------------------------------------------------- b --------------------------------------------->
-<!-- <p>杩欐槸鏅€氭枃鏈?- <onekit-b>杩欐槸绮椾綋鏂囨湰</onekit-b>銆?/p> -->
-
-
-<!-- br -->
-<!-- <p>To break,<onekit-br/>lines,<onekit-br/>in a,onekit-<br/>paragraph,<onekit-br/>use the br tag.</p> -->
-
-
 
 <!------------------------------------------------------ div --------------------------------------------->
 <!-- <onekit-h3>This is a header</onekit-h3>
@@ -30,14 +12,14 @@ USA
 
 
 
-<!------------------------------------------------ dl銆乨t銆乨d -------------------------------------------->
+<!------------------------------------------------ dl、dt、dd -------------------------------------------->
 <!-- <onekit-dl>
-   <onekit-dt>璁＄畻鏈?/onekit-dt>
-   <onekit-dd>鐢ㄦ潵璁＄畻鐨勪华鍣?... ...</onekit-dd>
-   <onekit-dd>鐢ㄦ潵璁＄畻鐨勪华鍣?... ...</onekit-dd>
-   <onekit-dt>鏄剧ず鍣?/onekit-dt>
-   <onekit-dd>浠ヨ瑙夋柟寮忔樉绀轰俊鎭殑瑁呯疆 ... ...</onekit-dd>
-   <onekit-dd>浠ヨ瑙夋柟寮忔樉绀轰俊鎭殑瑁呯疆2... ...</onekit-dd>
+   <onekit-dt>计算机</onekit-dt>
+   <onekit-dd>用来计算的仪器 ... ...</onekit-dd>
+   <onekit-dd>用来计算的仪器 ... ...</onekit-dd>
+   <onekit-dt>显示器</onekit-dt>
+   <onekit-dd>以视觉方式显示信息的装置 ... ...</onekit-dd>
+   <onekit-dd>以视觉方式显示信息的装置2... ...</onekit-dd>
 </onekit-dl> -->
 
 
@@ -48,27 +30,27 @@ USA
 
 
 <!------------------------------------------------------ h --------------------------------------------------------------->
-<!-- <onekit-h1>杩欐槸鏍囬 1</onekit-h1>
-<onekit-h2>杩欐槸鏍囬 2</onekit-h2>
-<onekit-h3>杩欐槸鏍囬 3</onekit-h3>
-<onekit-h4>杩欐槸鏍囬 4</onekit-h4>
-<onekit-h5>杩欐槸鏍囬 5</onekit-h5>
-<onekit-h6>杩欐槸鏍囬 6</onekit-h6> -->
+<!-- <onekit-h1>这是标题 1</onekit-h1>
+<onekit-h2>这是标题 2</onekit-h2>
+<onekit-h3>这是标题 3</onekit-h3>
+<onekit-h4>这是标题 4</onekit-h4>
+<onekit-h5>这是标题 5</onekit-h5>
+<onekit-h6>这是标题 6</onekit-h6> -->
 
 
 
 <!------------------------------------------------------- p ----------------------------------------------------------------->
-<!-- <onekit-p>杩欐槸娈佃惤銆?/onekit-p>
-<onekit-p>杩欐槸娈佃惤銆?/onekit-p>
-<onekit-p>杩欐槸娈佃惤銆?/onekit-p>
-<onekit-p>娈佃惤鍏冪礌鐢?p 鏍囩瀹氫箟銆?/onekit-p>  -->
+<!-- <onekit-p>这是段落。</onekit-p>
+<onekit-p>这是段落。</onekit-p>
+<onekit-p>这是段落。</onekit-p>
+<onekit-p>段落元素由 p 标签定义。</onekit-p>  -->
 
 
 <!---------------------------------------------------- figure   figcaption ------------------------------------------------------>
-<!-- <onekit-p>涓婃捣鍗㈡郸澶фˉ鏄綋浠婁笘鐣岀涓€閽㈢粨鏋勬嫳妗ワ紝鏄笘鐣屼笂璺ㄥ害鏈€澶х殑鎷卞舰妗ャ€傚畠涔熸槸涓栫晫涓婇搴у畬鍏ㄩ噰鐢ㄧ剨鎺ュ伐鑹鸿繛鎺ョ殑澶у瀷鎷辨ˉ锛堥櫎鍚堟嫝鎺ュ彛閲囩敤鏍撴帴澶栵級锛岀幇鍦虹剨鎺ョ剨缂濇€婚暱搴﹁揪4涓囧绫筹紝鎺ヨ繎涓婃捣甯傚唴鐜珮鏋惰矾鐨勬€婚暱搴︺€傚崲娴﹀ぇ妗ュ儚婢冲ぇ鍒╀簹鎮夊凹鐨勬捣婀惧ぇ妗ヤ竴鏍峰叿鏈夋梾娓歌鍏夌殑鍔熻兘銆?/onekit-p>
+<!-- <onekit-p>上海卢浦大桥是当今世界第一钢结构拱桥，是世界上跨度最大的拱形桥。它也是世界上首座完全采用焊接工艺连接的大型拱桥（除合拢接口采用栓接外），现场焊接焊缝总长度达4万多米，接近上海市内环高架路的总长度。卢浦大桥像澳大利亚悉尼的海湾大桥一样具有旅游观光的功能。</onekit-p>
 <onekit-figure>
-  <onekit-p>榛勬郸姹熶笂鐨勭殑鍗㈡郸澶фˉ</onekit-p>
-  <onekit-p>鎷嶆憚鑰咃細W3School 椤圭洰缁勶紝鎷嶆憚鏃堕棿锛?010 骞?10 鏈?/onekit-p>
+  <onekit-p>黄浦江上的的卢浦大桥</onekit-p>
+  <onekit-p>拍摄者：W3School 项目组，拍摄时间：2010 年 10 月</onekit-p>
   <onekit-img src="/pages/img/1.jpg" width="200" height="150" />
   <onekit-figcaption>Fig.1 - The Pulpit Rock, Norway.</onekit-figcaption>
 </onekit-figure> -->
@@ -83,13 +65,13 @@ USA
 
 
 <!-------------------------------------------------------- hr ----------------------------------------->
-<!-- <onekit-p>hr 鏍囩瀹氫箟姘村钩绾匡細</onekit-p>
+<!-- <onekit-p>hr 标签定义水平线：</onekit-p>
 <onekit-hr/>
-<onekit-p>杩欐槸娈佃惤銆?/onekit-p>
+<onekit-p>这是段落。</onekit-p>
 <onekit-hr/>
-<onekit-p>杩欐槸娈佃惤銆?/onekit-p>
+<onekit-p>这是段落。</onekit-p>
 <onekit-hr/>
-<onekit-p>杩欐槸娈佃惤銆?/onekit-p> -->
+<onekit-p>这是段落。</onekit-p> -->
 
 <!-------------------------------------------------------- i ----------------------------------------------->
 <!-- <onekit-p>The Latin phrase <onekit-i class="latin">Veni, vidi, vici</onekit-i> is often
@@ -101,9 +83,9 @@ mentioned in music, art, and literature</onekit-p> -->
 </onekit-iframe> -->
 
 <!------------------------------------------------------- ins --------------------------------------------------->
-<!-- <onekit-p>涓€鎵撴湁 <onekit-del>浜屽崄</onekit-del> <onekit-ins>鍗佷簩</onekit-ins> 浠躲€?/onekit-p>
-<onekit-p>澶у鏁版祻瑙堝櫒浼氭敼鍐欎负鍒犻櫎鏂囨湰鍜屼笅鍒掔嚎鏂囨湰銆?/onekit-p>
-<onekit-p>涓€浜涜€佸紡鐨勬祻瑙堝櫒浼氭妸鍒犻櫎鏂囨湰鍜屼笅鍒掔嚎鏂囨湰鏄剧ず涓烘櫘閫氭枃鏈€?/onekit-p> -->
+<!-- <onekit-p>一打有 <onekit-del>二十</onekit-del> <onekit-ins>十二</onekit-ins> 件。</onekit-p>
+<onekit-p>大多数浏览器会改写为删除文本和下划线文本。</onekit-p>
+<onekit-p>一些老式的浏览器会把删除文本和下划线文本显示为普通文本。</onekit-p> -->
 
 <!------------------------------------------------------- kbd ------------------------------------------------------>
 <!-- <onekit-p>Type the following in the Run dialog: <onekit-kbd>cmd</onekit-kbd><onekit-br/>Then click the OK button.</onekit-p>
@@ -121,13 +103,13 @@ mentioned in music, art, and literature</onekit-p> -->
     <onekit-input type="checkbox" name="peas" onekit-onekit-id="peas"/>
 </onekit-div> -->
 
-<!-- ----------------------------------------------  鍒楄〃dl銆乨t銆乨d锛? ------------------------------------------------------- -->
-<!-- <onekit-p>鍒楄〃dl銆乨t銆乨d锛?/onekit-p>
+<!-- ----------------------------------------------  列表dl、dt、dd：  ------------------------------------------------------- -->
+<!-- <onekit-p>列表dl、dt、dd：</onekit-p>
 <onekit-dl>
-   <onekit-dt>鍒楄〃1<onekit-dialog open>杩欐槸鎵撳紑鐨勫璇濈獥鍙?/onekit-dialog></onekit-dt>
+   <onekit-dt>列表1<onekit-dialog open>这是打开的对话窗口</onekit-dialog></onekit-dt>
      <onekit-dd>1</onekit-dd>
      <onekit-dd>2</onekit-dd>
-   <onekit-dt>鍒楄〃2</onekit-dt>
+   <onekit-dt>列表2</onekit-dt>
      <onekit-dd>3</onekit-dd>
      <onekit-dd>4</onekit-dd>
 </onekit-dl> -->
@@ -136,8 +118,8 @@ mentioned in music, art, and literature</onekit-p> -->
 
 <!-----------------------------------------------------------------  dialog  ------------------------------------>
 <!--  
- <onekit-dialog open>杩欐槸瑕佹樉绀哄嚭鏉ョ殑瀵硅瘽妗嗕腑鐨勫唴瀹?/onekit-dialog>
-  <onekit-dialog>杩欐槸涓嶆樉绀哄嚭鏉ョ殑瀵硅瘽妗嗕腑鍐呭</onekit-dialog> -->
+ <onekit-dialog open>这是要显示出来的对话框中的内容</onekit-dialog>
+  <onekit-dialog>这是不显示出来的对话框中内容</onekit-dialog> -->
    
 
 <!---------------------------------------------------  fieldset legend  ------------------------------------------->
@@ -171,7 +153,7 @@ mentioned in music, art, and literature</onekit-p> -->
 
 <!-- ----------------------------------------------  area  ------------------------------------------------------------ -->
 <!-- <onekit-body>
-<onekit-p>璇风偣鍑诲浘鍍忥紝鎶婂畠浠斁澶с€?/onekit-p>
+<onekit-p>请点击图像，把它们放大。</onekit-p>
 <onekit-img src="/gong/chineseMap2.jpg" border="0" usemap="#chinesemap" alt="chinesemap"></onekit-img>
 <onekit-map name="chinesemap" onekit-id="chinesemap">
 
@@ -189,7 +171,7 @@ alt="Venus">
 
 <!-- ----------------------------------------------  input  ------------------------------------------------------------ -->
 <!-- 
- <onekit-p>type=text銆乸assword銆乻ubmit銆乥utton:</onekit-p>
+ <onekit-p>type=text、password、submit、button:</onekit-p>
 <onekit-hr />
 <onekit-div>
     <onekit-label for="username">Username:</onekit-label>
@@ -217,8 +199,8 @@ alt="Venus">
   <onekit-label for="cbox2">This is the second checkbox, which is checked</onekit-label>
 </onekit-p>
  -->
-
-<!-- <onekit-p>type=file:</onekit-p>
+<!-- 
+<onekit-p>type=file:</onekit-p>
 <onekit-hr />
 <onekit-body>
 <form>
@@ -239,7 +221,7 @@ alt="Venus">
 
 
 <!-- 
-<onekit-p>type=radio銆乻ubmit:</onekit-p>
+<onekit-p>type=radio、submit:</onekit-p>
 <onekit-hr />
 <form>
   <onekit-p>Please select your preferred contact method:</onekit-p>
@@ -261,7 +243,7 @@ alt="Venus">
   </onekit-div>
 </form>
 
-<onekit-p>type=text銆乻ubmit銆乺eset:</onekit-p>
+<onekit-p>type=text、submit、reset:</onekit-p>
 <onekit-hr />
 <form>
     <onekit-div class="controls">
@@ -296,9 +278,25 @@ alt="Venus">
 <!------------------------------------------------------------ a --------------------------------------->
 <!-- <onekit-a href="https://baidu.com">Website</onekit-a>
 <onekit-a href="mailto:m.bluth@example.com">Email</onekit-a>
-<onekit-a href="tel:+123456789">Phone</onekit-a>
- -->
+<onekit-a href="tel:+123456789">Phone</onekit-a> -->
 
+
+<!------------------------------------------------------- address ---------------------------------------->
+<!-- <onekit-address>
+Written by <onekit-a href="mailto:webmaster@example.com">Donald Duck</onekit-a>.<onekit-br/> 
+Visit us at:<onekit-br/>
+Example.com<onekit-br/>
+Box 564, Disneyland<onekit-br/>
+USA
+</onekit-address> -->
+
+
+<!----------------------------------------------------------- b --------------------------------------------->
+<!-- <p>这是普通文本 - <onekit-b>这是粗体文本</onekit-b>。</p> -->
+
+
+<!-- br -->
+To break,<onekit-br/>lines,<onekit-br/>in a,onekit-<onekit-br/>paragraph,<onekit-br/>use the br tag.
 
   
 <!-- ---------------------------------------------  audio  -------------------------------------------------- -->
