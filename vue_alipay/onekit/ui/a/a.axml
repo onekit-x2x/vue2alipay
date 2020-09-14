@@ -2,6 +2,8 @@
 class="onekit-a {{onekitClass}}"
 style="{{onekitStyle}}"
 id="{{onekitId}}"
+bindtap="a_tap"
+href="{{href}}"
 >
 <slot></slot>
 </text>

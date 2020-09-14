@@ -1,4 +1,5 @@
 {
+  "component": true,
    "usingComponents": {
     "onekit-a":"/onekit/ui/a/a",
     "onekit-address":"/onekit/ui/address/address",
