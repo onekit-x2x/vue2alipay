@@ -5,6 +5,6 @@ Component({
     onekitClass:"",    
      onekitStyle:"",     
      onekitId:"", 
-    title:""
+
   },
 });
