@@ -1,3 +1,9 @@
-<view>
-  New Component
+<view
+class="onekit-blockquote {{onekitClass}}"
+style="{{onekitStyle}}"  
+id="{{onekitId}}"
+>
+
+<slot></slot>
+
 </view>

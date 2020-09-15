@@ -3,7 +3,10 @@ Component({
   data: {},
   props: {     
     onekitClass:"",    
-     onekitStyle:"",     
-     onekitId:"", 
+    onekitStyle:"",     
+    onekitId:"", 
+    height:150,
+    width:300,
+  
   },
 });

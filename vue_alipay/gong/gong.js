@@ -1,7 +1,13 @@
 Page({
   onLoad(query) {
     // 页面加载
+    //  var canvas = document.getElementById('canvas'); 
+    // var ctx = canvas.getContext('2d'); 
+    // ctx.fillStyle = 'green'; 
+    // ctx.fillRect(10, 10, 100, 100);
     console.info(`Page onLoad with query: ${JSON.stringify(query)}`);
+   
+    
   },
   onReady() {
     // 页面加载完成

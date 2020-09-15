@@ -5,5 +5,8 @@ Component({
     onekitClass:"",    
      onekitStyle:"",     
      onekitId:"", 
+     type:"",
+     disabled:false,
+     form:"",
   },
 });

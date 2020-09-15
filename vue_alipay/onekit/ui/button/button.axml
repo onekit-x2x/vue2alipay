@@ -1,0 +1,10 @@
+<button
+  class="onekit-button {{onekitClass}}"
+  style="{{onekitStyle}}"  
+  id="{{onekitId}}"
+  type="{{type}}"
+  disabled="{{disabled}}"
+  form-type="{{form}}"
+>
+  <slot></slot>
+</button>

@@ -1,5 +1,5 @@
 <!--onekit/ui/audio/audio.wxml-->
-<audio
+<!-- <audio
 class="onekit-audio {{onekitClass}}"
 style="{{onekitStyle}}"  id="{{onekitId}}"
 src="{{src}}"
@@ -16,4 +16,4 @@ bindended="audio_ended"
 
 >
 
-</audio>
+</audio> -->

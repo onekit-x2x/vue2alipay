@@ -1,3 +1,7 @@
-<view>
-  New Component
-</view>
+<!--onekit/ui/center/center.wxml-->
+<text
+class="onekit-center {{onekitClass}}"
+style="{{onekitStyle}}"  id="{{onekitId}}"
+>
+<slot/>
+</text>

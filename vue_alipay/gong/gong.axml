@@ -2,13 +2,6 @@
 
 <onekit-body>
 
-<!------------------------------------------------------ div --------------------------------------------->
-<!-- <onekit-h3>This is a header</onekit-h3>
-<onekit-p>This is a paragraph.</onekit-p>
-<onekit-div onekit-style="color:red">
-  <onekit-h3>This is a header</onekit-h3>
-  <onekit-p>This is a paragraph.</onekit-p>
-</onekit-div> -->
 
 
 
@@ -116,11 +109,7 @@ mentioned in music, art, and literature</onekit-p> -->
 
 
 
-<!-----------------------------------------------------------------  dialog  ------------------------------------>
-<!--  
- <onekit-dialog open>这是要显示出来的对话框中的内容</onekit-dialog>
-  <onekit-dialog>这是不显示出来的对话框中内容</onekit-dialog> -->
-   
+
 
 <!---------------------------------------------------  fieldset legend  ------------------------------------------->
   <!-- <onekit-fieldset>
@@ -151,23 +140,7 @@ mentioned in music, art, and literature</onekit-p> -->
 </onekit-fieldset> -->
 
 
-<!-- ----------------------------------------------  area  ------------------------------------------------------------ -->
-<!-- <onekit-body>
-<onekit-p>请点击图像，把它们放大。</onekit-p>
-<onekit-img src="/gong/chineseMap2.jpg" border="0" usemap="#chinesemap" alt="chinesemap"></onekit-img>
-<onekit-map name="chinesemap" onekit-id="chinesemap">
 
-
-<onekit-area shape="polygon" 
-coords=
-"101,52,94,55,91,60,84,57,79,66,71,66,71,75,66,80,39,84,41,90,40,98,42,102,42,107,48,111,50,118,94,119,100,120,102,114,100,109,108,106,111,100,126,89,117,76,109,73,109,62"
-href ="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1599646438911&di=d393ac0fa026524a3b20c9f2309a23da&imgtype=0&src=http%3A%2F%2Fgss0.baidu.com%2F-fo3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fpic%2Fitem%2F29381f30e924b899cf0cfcc268061d950a7bf61c.jpg"
-target ="_blank"
-alt="Venus">
-
-</onekit-area>
-</onekit-map>
-</onekit-body> -->
 
 <!-- ----------------------------------------------  input  ------------------------------------------------------------ -->
 <!-- 
@@ -305,5 +278,130 @@ USA
      Your browser does not support the
      <code>audio</code> element.
 </onekit-audio> -->
+
+<!------------------------------------------------------ div ---------ok------------------------------------>
+<!-- <onekit-h3>This is a header</onekit-h3>
+<onekit-p>This is a paragraph.</onekit-p>
+<onekit-div onekit-style="color:red">
+  <onekit-h3>This is a header</onekit-h3>
+  <onekit-p>This is a paragraph.</onekit-p>
+</onekit-div> -->
+
+<!-- ----------------------------------------------  area  ------------------------------------------------------------ -->
+<!-- 
+<onekit-p>请点击图像，把它们放大。</onekit-p>
+<onekit-img src="/gong/chineseMap2.jpg" border="0" usemap="#chinesemap" alt="chinesemap"></onekit-img>
+<onekit-map name="chinesemap" onekit-id="chinesemap">
+
+
+<onekit-area shape="polygon" 
+coords=
+"101,52,94,55,91,60,84,57,79,66,71,66,71,75,66,80,39,84,41,90,40,98,42,102,42,107,48,111,50,118,94,119,100,120,102,114,100,109,108,106,111,100,126,89,117,76,109,73,109,62"
+href ="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1599646438911&di=d393ac0fa026524a3b20c9f2309a23da&imgtype=0&src=http%3A%2F%2Fgss0.baidu.com%2F-fo3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fpic%2Fitem%2F29381f30e924b899cf0cfcc268061d950a7bf61c.jpg"
+target ="_blank"
+alt="Venus">
+
+</onekit-area>
+</onekit-map>
+-->
+
+<!-----------------------------------------------------  dialog  ------------------------------------>
+ 
+ <!-- <onekit-dialog open>这是要显示出来的对话框中的内容</onekit-dialog>
+ <onekit-dialog>这是不显示出来的对话框中内容</onekit-dialog> -->
+   
+<!-----------------------------------------------------  bdi  -----code------------------------------->
+<!-- User <onekit-bdi dir="rtl">my home </onekit-bdi> 60  
+User <onekit-bdi dir="ltr">my home </onekit-bdi> 60 
+User <onekit-bdi dir="auto">my home </onekit-bdi> 60  -->
+
+<!-----------------------------------------------------  bdo  -----code------------------------------->
+<!-- User <onekit-bdo dir="rtl">my home </onekit-bdo> 60  
+User <onekit-bdo dir="ltr">my home </onekit-bdo> 60 
+User <onekit-bdo dir="auto">my home </onekit-bdo> 60  -->
+
+
+<!-----------------------------------------------------  blockquote  ----OK-------------------------------->
+<!-- Here comes a long quotation:
+
+<onekit-blockquote>
+This is a long quotation. This is a long quotation. This is a long quotation. This is a long quotation. This is a long quotation.
+</onekit-blockquote>
+
+xxxxxxxxxxxxxxxxxxx -->
+
+<!-----------------------------------------------------  button  ---code--------------------------------->
+<!-- <onekit-button type="button">button</onekit-button>
+<onekit-button type="button" autofocus="autofocus">autofocus</onekit-button>
+<onekit-button type="button" disabled>disabled</onekit-button>
+<onekit-button type="menu">menu</onekit-button>
+<onekit-button type="reset">reset</onekit-button> -->
+<!-- 有关于form的属性 -->
+<!-- form -->
+<!-- <form action="#" method="get" onekit-id="testform"></form>
+<onekit-button type="submit" form="testform" value="xxx">submit</onekit-button> -->
+
+<!-- formaction -->
+<!-- <form action="#" method="get">
+    First name: <onekit-input type="text" name="fname" /><onekit-br />
+    Last name: <onekit-input type="text" name="lname" /><onekit-br />
+  <onekit-button type="submit">提交</onekit-button><onekit-br />
+  <onekit-button type="submit" formaction="">以管理员身份提交</onekit-button>
+  </form> -->
+
+<!-- formenctype  -->
+<!-- <form action="#" method="post">
+    <onekit-div>First name: <onekit-input type="text" name="fname" /></onekit-div>   
+    <onekit-button type="submit" >提交</onekit-button>
+    <onekit-button type="submit" formenctype="multipart/form-data"> 以 Multipart/form-data 类型提交</onekit-button>   
+</form> -->
+
+<!-- formmethod  -->
+<!-- <form action="demo_form.asp" method="get">
+    First name: <onekit-input type="text" name="fname" />
+    <onekit-div><onekit-button type="submit" >提交</onekit-button>
+  <onekit-button type="submit" formmethod="post" formaction="demo_post.asp">使用 POST 来提交</onekit-button>
+  </onekit-div>
+</form> -->
+
+<!-- formnovalidate  -->
+<!-- <form action="demo_form.asp" method="get">
+    E-mail: <onekit-input type="email" name="userid" />
+    <onekit-div>
+    <onekit-button type="submit" >提交</onekit-button>
+    <onekit-button type="submit" formnovalidate="formnovalidate">进行没有验证的提交</onekit-button>
+    </onekit-div>
+</form> -->
+
+<!-- formtarget  -->
+<!-- <form action="/example/html5/demo_form.asp" method="get">
+        First name: <onekit-input type="text" name="fname" />
+        
+        <onekit-button type="submit" >提交</onekit-button>
+        <onekit-button type="submit" formtarget="_blank">提交到新窗口</onekit-button>
+ </form> -->
+ 
+ <!-- name  -->
+ <!-- <form action="#" method="get">
+    <onekit-button name="subject" type="submit" value="HTML">HTML</onekit-button> 
+    <onekit-button name="subject" type="submit" value="CSS">CSS</onekit-button> 
+  </form> -->
+
+<!-------------------------------------  canvas  ------code------------------------------------>
+<!-- <onekit-canvas onekit-id="canvas" width="300" height="300"> 
+    抱歉，您的浏览器不支持canvas元素
+    （这些内容将会在不支持<onekit-canvas>元素的浏览器或是禁用了JavaScript的浏览器内渲染并展现）
+  </onekit-canvas> -->
+
+
+<!-------------------------------------  center  ------OK------------------------------------>
+<onekit-center>This text will be centered.
+<onekit-p>So will this paragraph.</onekit-p></onekit-center>
+
+
+
+
+
+
 
 </onekit-body>
