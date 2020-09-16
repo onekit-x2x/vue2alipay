@@ -1,6 +1,6 @@
 <!--onekit/ui/figure/figure.wxml-->
 <view
-class="onekit-figure {{onekitClass}} "
+class="onekit-font {{onekitClass}} "
 style="{{onekitStyle}}"  id="{{onekitId}}"
 >
 <slot/>

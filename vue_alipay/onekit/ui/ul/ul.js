@@ -5,6 +5,7 @@ Component({
      onekitClass:"",    
      onekitStyle:"",    
      onekitId:"", 
+     type:"disc",
   },
   didMount() {},
   didUpdate() {},

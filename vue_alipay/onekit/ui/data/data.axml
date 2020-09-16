@@ -1,0 +1,8 @@
+<!--onekit/ui/data/data.wxml-->
+<view
+class="onekit-data {{onekitClass}}"
+style="{{onekitStyle}}"  id="{{onekitId}}"
+>
+<slot/>
+</view>
+

@@ -4,6 +4,7 @@ Component({
   props: {     
     onekitClass:"",    
      onekitStyle:"",     
-     onekitId:"", 
+     onekitId:"",
+ 
   },
 });

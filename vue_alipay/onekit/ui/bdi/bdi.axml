@@ -2,6 +2,7 @@
 class="onekit-bdi {{onekitClass}}"
 style="{{onekitStyle}}"
 id="{{onekitId}}"
+
 >
 <slot></slot>
 </text>
