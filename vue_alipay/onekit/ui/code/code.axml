@@ -1,6 +1,6 @@
 <text
 class="onekit-code {{onekitClass}}"
-style="{{onekitStyle}}"  id="{{onekitId}}"
+style="font-size:13px;{{onekitStyle}}"  id="{{onekitId}}"
 bindtap="onclick" 
 
 
